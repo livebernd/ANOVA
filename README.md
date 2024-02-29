@@ -1,6 +1,6 @@
 # ANOVA
-Article Performance Analysis
-Overview
+*Article Performance Analysis*
+*Overview*
 This project explores the relationships between article performance metrics, author contributions, and reader reactions. The goal is to identify factors contributing to higher article engagement and performance on a content platform.
 
 Datasets
